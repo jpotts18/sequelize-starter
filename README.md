@@ -1,7 +1,17 @@
 Sequelize.js Starter Application
 =================
 
-![Sequelize.js Node ORM](http://sequelizejs.com/images/logo.png)
+<p align="center">
+  <a href="http://sequelizejs.com">
+    <img height="98" width="98" src="http://sequelizejs.com/images/logo.png"/>
+  </a>
+  <br/>
+  <a href="http://gulpjs.com/">Visit Sequelize.js website!</a>
+  <br/>
+  <a href="http://sequelizejs.com/docs/latest/installation">Read the Documentations</a>
+</p>
+
+Sequelize's mission statement is the following:
 
 >The Sequelize library provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases by mapping database entries to objects and vice versa. To put it in a nutshell, it's an ORM (Object-Relational-Mapper). The library is written entirely in JavaScript and can be used in the Node.JS environment.
 
