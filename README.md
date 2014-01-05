@@ -6,9 +6,9 @@ Sequelize.js Starter Application
     <img height="98" width="98" src="http://sequelizejs.com/images/logo.png"/>
   </a>
   <br/>
-  <a href="http://gulpjs.com/">Visit Sequelize.js website!</a>
+  <a href="http://sequelizejs.com/">Sequelize.js website!</a>
   <br/>
-  <a href="http://sequelizejs.com/docs/latest/installation">Read the Documentations</a>
+  <a href="http://sequelizejs.com/docs/latest/installation">Read the Documentation</a>
 </p>
 
 Sequelize's mission statement is the following:
